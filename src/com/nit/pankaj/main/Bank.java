@@ -16,7 +16,7 @@ public class Bank {
 		Scanner sc = new Scanner(System.in);
 		
 		
-		System.out.print("bank name btao BSDK \n 1. SBI \n 2. HDFC \n 3. ICICI ");
+		System.out.print("Enter the Bank Name :: \n 1. SBI \n 2. HDFC \n 3. ICICI ");
 		System.out.print("\nchosse your key : ");
 		int num1 = sc.nextInt();
 		
